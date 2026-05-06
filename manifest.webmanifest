@@ -1,11 +1,11 @@
 {
-  "name": "Сенат и Народ: Hybrid Guide",
-  "short_name": "Питер Hybrid",
+  "name": "Сенат и Народ: Питер V4",
+  "short_name": "Питер V4",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#efe5d2",
   "theme_color": "#efe5d2",
-  "description": "Hybrid digital-гид Сената и Народа по Санкт-Петербургу",
+  "description": "Интерактивный travel-гид Сената и Народа по Санкт-Петербургу",
   "icons": [
     {
       "src": "icon.svg",
