@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#efe5d2"/>
+<circle cx="386" cy="126" r="76" fill="#d9c6a8" opacity=".55"/>
+<text x="256" y="170" text-anchor="middle" font-size="86">🏛️</text>
+<text x="256" y="275" text-anchor="middle" font-size="70">🌉</text>
+<text x="256" y="355" text-anchor="middle" font-family="Georgia" font-size="52" fill="#7b1f2b">Питер</text>
+<text x="256" y="397" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#1f1b16">Hybrid</text>
+</svg>

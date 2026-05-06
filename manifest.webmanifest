@@ -1,0 +1,16 @@
+{
+  "name": "Сенат и Народ: Hybrid Guide",
+  "short_name": "Питер Hybrid",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#efe5d2",
+  "theme_color": "#efe5d2",
+  "description": "Hybrid digital-гид Сената и Народа по Санкт-Петербургу",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
